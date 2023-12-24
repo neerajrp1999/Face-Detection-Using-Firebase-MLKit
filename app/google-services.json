@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "587095554639",
+    "project_id": "face-detection-ebd75",
+    "storage_bucket": "face-detection-ebd75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587095554639:android:6ce74062672a25e85c083a",
+        "android_client_info": {
+          "package_name": "com.neer.facedetect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8JdXoKdCNnhCS_ld22iMUyCcAh9kKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587095554639:android:83da9e9f120fc5765c083a",
+        "android_client_info": {
+          "package_name": "com.neer.facedetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh8JdXoKdCNnhCS_ld22iMUyCcAh9kKdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
